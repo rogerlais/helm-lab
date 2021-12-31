@@ -1,0 +1,6 @@
+# Default values for roger.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+auth:
+  password: feliz_2022!
